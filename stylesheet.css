@@ -1,0 +1,32 @@
+div.headers {
+	background-color: blue;
+	border: 2px blue;
+	border-radius: 5px;
+	color: white;
+	text-align: center;
+}
+
+img {
+	height: 200px;
+	width: 200px;
+	position: relative;
+	float: right;
+	top: 10px;
+	right: 10px;
+	border-radius: 5px;
+	overflow: auto;
+}
+body {
+	margin: 0;
+	padding: 0;
+
+}
+
+section {
+	margin-left: 10px;
+}
+
+header {
+	margin-left: 10px;
+}
+
