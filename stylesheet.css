@@ -24,6 +24,7 @@ body {
 
 section {
 	margin-left: 10px;
+	overflow: auto;
 }
 
 header {
