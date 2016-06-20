@@ -11,11 +11,9 @@ img {
 	width: 200px;
 	position: relative;
 	float: right;
-	top: 10px;
-	right: 10px;
+	right: 150px;
 	border-radius: 5px;
 	overflow: auto;
-	right: 50px;
 }
 body {
 	margin: 0;
