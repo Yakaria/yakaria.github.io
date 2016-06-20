@@ -30,3 +30,6 @@ header {
 	margin-left: 10px;
 }
 
+div.aside {
+	background-color: blue;
+}
