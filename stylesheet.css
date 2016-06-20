@@ -10,8 +10,8 @@ img {
 	height: 200px;
 	width: 200px;
 	position: relative;
-	float: right;
-	right: 200px;
+	
+	right: 10px;
 	border-radius: 5px;
 	overflow: auto;
 }
